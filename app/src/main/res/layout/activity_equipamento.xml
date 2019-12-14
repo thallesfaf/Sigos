@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.EquipamentoActivity">
+
+<EditText
+    android:id="@+id/editCliente"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:editable="false"
+    android:ems="10"
+    android:hint="Cliente"
+    android:inputType="textPersonName" />
+
+<EditText
+    android:id="@+id/editTipo"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Tipo"
+    android:inputType="text" />
+
+<EditText
+    android:id="@+id/editMarca"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:gravity="start|top"
+    android:hint="Marca"
+    android:inputType="text" />
+
+<EditText
+    android:id="@+id/editModelo"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Modelo"
+    android:inputType="text" />
+
+<EditText
+    android:id="@+id/editNserie"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Nserie"
+    android:inputType="text" />
+
+<EditText
+    android:id="@+id/editDesc"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Descricao"
+    android:inputType="textMultiLine" />
+
+<ListView
+    android:id="@+id/listV_equipamentos"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+</LinearLayout>

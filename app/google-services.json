@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "636221390086",
+    "firebase_url": "https://myapp-master.firebaseio.com",
+    "project_id": "myapp-master",
+    "storage_bucket": "myapp-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636221390086:android:17d82fbbd9e47c0d99f287",
+        "android_client_info": {
+          "package_name": "br.edu.ifsul.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636221390086-eh0tslpdqtoblgls5j36ts932g9bpfgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.loja",
+            "certificate_hash": "8ad76825fd67cb90e90b5c4603f1c3add7354993"
+          }
+        },
+        {
+          "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfCw_ZIYGu9oiUzEZUYXQE-oKaWj_G50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636221390086:android:850e07ca706fcc3b",
+        "android_client_info": {
+          "package_name": "br.edu.ifsul.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636221390086-mi523itfvmfntcgocmarvpfoviiavf9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.myapp",
+            "certificate_hash": "8ad76825fd67cb90e90b5c4603f1c3add7354993"
+          }
+        },
+        {
+          "client_id": "636221390086-n9l1l4roji5mqfvf148il98a5f3u0v98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.myapp",
+            "certificate_hash": "f5f16b3c6d28c798ea570914a4820fff67a97e69"
+          }
+        },
+        {
+          "client_id": "636221390086-pgkv0firks40iupeier929f0v88jg1i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsul.myapp",
+            "certificate_hash": "17bdf22c03134a5ee9dd2e70710f9932e67c02a5"
+          }
+        },
+        {
+          "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfCw_ZIYGu9oiUzEZUYXQE-oKaWj_G50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636221390086:android:7704a099fb72ea1999f287",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636221390086-fies5fcjokmjs62qn46bashgea7o6fkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "dab28aca716eb22ce0ba5a3f404eddd186066a6a"
+          }
+        },
+        {
+          "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfCw_ZIYGu9oiUzEZUYXQE-oKaWj_G50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636221390086-iqk81tebih7u88hmb82uqe8e02ui1m5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
